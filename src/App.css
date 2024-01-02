@@ -1,0 +1,11 @@
+.scroll::-webkit-scrollbar{
+    display: none;
+}
+
+.custom-placeholder::placeholder {
+    color: rgba(0, 0, 0, 0.75); 
+}
+
+body{
+    background-color: rgb(233 213 255);
+}
