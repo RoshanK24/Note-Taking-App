@@ -2,7 +2,7 @@
 ## For setup follow the below steps:
 Step-1: Download or clone this repository -
 ````
-git clone 
+git clone https://github.com/RoshanK24/Note-Taking-App
 ````
 Step-2: Install all the necessary dependencies -
 ````
