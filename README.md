@@ -22,6 +22,14 @@ npm run dev
 Click on the respective icon to View Full Note, Edit Note and Delete Note.
 ![Screenshot (265)](https://github.com/RoshanK24/Note-Taking-App/assets/115312627/56c53e74-b734-400e-871b-5db1ec2e920a)
 
+### View full note - Preview
+![Screenshot (268)](https://github.com/RoshanK24/Note-Taking-App/assets/115312627/13c00454-f1d0-405f-acc3-81019c9abad0)
+
+### Edit note - Preview
+![Screenshot (269)](https://github.com/RoshanK24/Note-Taking-App/assets/115312627/b4f5d368-7592-4071-a80e-bb7751eccf0e)
+
+
+
 
 
 
